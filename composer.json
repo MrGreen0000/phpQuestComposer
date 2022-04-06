@@ -1,0 +1,15 @@
+{
+    "name": "wilder/projets1",
+    "autoload": {
+        "psr-4": {
+            "Wilder\\Projets1\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "MrGreen0000",
+            "email": "naji.mouflih@gmail.com"
+        }
+    ],
+    "require": {}
+}
